@@ -390,14 +390,6 @@ If you enjoy **KEYBEAT**, please give us a star on GitHub! ⭐
 
 ---
 
-<p align="center">
-  <b>Made with ❤️ for the next generation of typing champions</b><br>
-  <b>© 2024 KEYBEAT - All Rights Reserved</b>
-</p>
-```
-
----
-
 ## 🚀 **Quick Start Commands**
 
 ```bash
